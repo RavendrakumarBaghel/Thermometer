@@ -1,0 +1,16 @@
+.inner{
+    
+    text-align: center;
+    margin:200px;
+    font-size: -webkit-xxx-large;
+}
+body{
+    background-color: burlywood;
+}
+/* h1{
+    background-color: blue;
+} */
+.fa{
+    height: 700px;
+    width: 30px;
+}
